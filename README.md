@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chasiumui
-- 👀 I’m interested in finding happiness
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on creating the future
-- 📫 How to reach me ... lawtty.tif@gmail.com
+- 👋 Hi, I’m @Tiffany 
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning how to build models
+- 💞️ I’m looking to build career in digital industry
+- 📫 How to reach me ... lawtty.325@gmail.com
 
 <!---
 chasiumui/chasiumui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
